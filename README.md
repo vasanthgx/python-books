@@ -1,4 +1,4 @@
 python-books
 ============
 
-This is some of my Python technical books collection
+This is some of my Python books I read
